@@ -158,5 +158,6 @@ export default function App() {
         </Text>
       </TouchableOpacity>
     </View>
+    
   );
 }
