@@ -143,6 +143,9 @@ export default function App() {
           </View>
         )}
       />
+
+
+      
       <TouchableOpacity
           style={{
           backgroundColor: "#7869E7",
